@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandro-lucas-dos-santos-de-oliveira-6631a82b7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrolucas22@gmail.com)
 
-![Alessandro Github Stats](https://github-readme-stats.vercel.app/api/?username=lulckss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Alessandro Github Stats]()
 
 ## Tecnologias que eu uso no meu dia!
 

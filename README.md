@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrolucas22@gmail.com)
 
 ![Alessandro Github Stats](https://github-readme-stats.vercel.app/api?username=lulckss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulckss&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulckss&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que eu uso no meu dia!
 

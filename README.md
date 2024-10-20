@@ -3,8 +3,8 @@
 #### Sou desenvolvedor front-end com experiência em criar aplicações web modernas e responsivas. Tenho paixão por desenvolver soluções eficientes usando tecnologias como React, Next.js e Tailwind CSS.<br/>
 
 <div style="display: inline_block">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/?username=lulckss&&hide=stars,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulckss&layout=compact&langs_count=16&theme=dark&title_color=fff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lulckss&&hide=stars,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulckss&layout=compact&langs_count=16&theme=dark&title_color=fff" />
 </div>
 
 ## Tecnologias que eu uso no meu dia!

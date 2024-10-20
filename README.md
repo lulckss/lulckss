@@ -1,11 +1,10 @@
-### Olá! Eu sou o Alessandro Lucas 👋
+## Olá! Eu sou o Alessandro Lucas 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lucas-)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrolucas22@gmail.com)
+#### Sou desenvolvedor front-end com experiência em criar aplicações web modernas e responsivas. Tenho paixão por desenvolver soluções eficientes usando tecnologias como React, Next.js e Tailwind CSS.<br/>
 
 <div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lulckss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulckss&layout=compact&langs_count=16&theme=dark" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/?username=lulckss&&hide=stars,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulckss&layout=compact&langs_count=16&theme=dark&title_color=fff" />
 </div>
 
 ## Tecnologias que eu uso no meu dia!
@@ -21,3 +20,17 @@
 <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" alt="Next.JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div><br/>
+
+## Projetos Recentes
+- **[E-commerce Store](https://github.com/seuprojeto/ecommerce)**: Um projeto completo de loja virtual com design responsivo e carrossel de produtos.
+- **[Music Player](https://github.com/seuprojeto/music-player)**: Um reprodutor de música simples com controles e interface moderna.
+
+### Confira meu [portfólio](https://seu-portfolio.com)
+
+## Contato
+<div style="display: inline_block">
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lucas-)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrolucas22@gmail.com)
+
+</div>

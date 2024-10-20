@@ -3,8 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lucas-)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrolucas22@gmail.com)
 
+<div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lulckss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulckss&layout=compact&langs_count=16&theme=dark" />
+</div>
 
 ## Tecnologias que eu uso no meu dia!
 

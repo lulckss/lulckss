@@ -2,7 +2,7 @@
 
 #### Sou desenvolvedor front-end com experiência em criar aplicações web modernas e responsivas. Tenho paixão por desenvolver soluções eficientes usando tecnologias como React, Next.js e Tailwind CSS.<br/>
 
-<div style="display: inline_block">
+<div style="display: flex">
   
 <img height="180em" width="560em" src="https://github-readme-stats.vercel.app/api/?username=lulckss&hide=stars,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
@@ -28,7 +28,7 @@
 - **[E-commerce Store](https://github.com/seuprojeto/ecommerce)**: Um projeto completo de loja virtual com design responsivo e carrossel de produtos.
 - **[Music Player](https://github.com/seuprojeto/music-player)**: Um reprodutor de música simples com controles e interface moderna.
 
-### Confira meu [portfólio](https://seu-portfolio.com)
+### Confira meu [portfólio](https://ale-portfolio-chi.vercel.app/)
 
 ## Contato
 <div style="display: inline_block">
